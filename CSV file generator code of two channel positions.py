@@ -9,7 +9,7 @@ import math
 #############################################
 
 # Define the name of the CSV file
-csv_file = "lissajous_curve.csv"
+csv_file = "mechanical_stage_lissajous.csv"
 function_name="Lissajous curve"
 #############################################
          
